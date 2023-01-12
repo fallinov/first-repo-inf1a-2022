@@ -3,7 +3,12 @@ body {
     font-family: "Bauhaus 93", cursive;
     color: #FFF;
     font-size: 0.9rem;
-    background-image: url("../icons/favicon-32x32.png") ;
+    // background-image: url("../icons/favicon-32x32.png") ;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 .bleu {
@@ -31,11 +36,11 @@ p {
     background-color: rgba(0,0,0,.75);
     padding: 20px;
      /* opacity: 50%; */
-    border: 5px dotted red;
-    border-bottom: 10px dotted yellow;
-    border-radius: 50%;
-    border-bottom-right-radius: 0;
-    box-shadow: 20px 50px 0px red;
+    // border: 5px dotted red;
+    // border-bottom: 10px dotted yellow;
+    // border-radius: 50%;
+    // border-bottom-right-radius: 0;
+    // box-shadow: 20px 50px 0px red;
 }
 
 p:hover {
